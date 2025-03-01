@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rupak-18/DSA-Array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rupak-18/DSA-Array/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Rupak-18/DSA-Array/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/Rupak-18/DSA-Array/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Rupak-18/DSA-Array/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Rupak-18/DSA-Array/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rupak-18/DSA-Array/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Rupak-18/DSA-Array/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Rupak-18/DSA-Array/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
