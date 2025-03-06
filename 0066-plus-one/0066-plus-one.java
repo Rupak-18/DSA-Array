@@ -10,8 +10,8 @@ class Solution {
                 digits[i] = 0;
             }
         }
-        int[] digit = new int[n+1];
-        digit[0] = 1;
-        return digit;
+        digits = new int[n+1];
+        digits[0] = 1;
+        return digits;
     }
 }
