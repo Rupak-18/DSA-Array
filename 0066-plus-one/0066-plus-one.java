@@ -6,9 +6,7 @@ class Solution {
                 digits[i]++;
                 return digits;
             }
-            else {
-                digits[i] = 0;
-            }
+            digits[i] = 0;
         }
         digits = new int[n+1];
         digits[0] = 1;
