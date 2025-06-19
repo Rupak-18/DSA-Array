@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rupak-18/DSA-Array/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Rupak-18/DSA-Array/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/Rupak-18/DSA-Array/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Rupak-18/DSA-Array/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Rupak-18/DSA-Array/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Rupak-18/DSA-Array/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rupak-18/DSA-Array/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/Rupak-18/DSA-Array/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rupak-18/DSA-Array/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/Rupak-18/DSA-Array/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rupak-18/DSA-Array/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rupak-18/DSA-Array/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
