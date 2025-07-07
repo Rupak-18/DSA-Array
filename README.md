@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Rupak-18/DSA-Array/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/Rupak-18/DSA-Array/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Rupak-18/DSA-Array/tree/master/0287-find-the-duplicate-number) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Rupak-18/DSA-Array/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rupak-18/DSA-Array/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rupak-18/DSA-Array/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Rupak-18/DSA-Array/tree/master/0075-sort-colors) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Rupak-18/DSA-Array/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rupak-18/DSA-Array/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Rupak-18/DSA-Array/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 <!---LeetCode Topics End-->
