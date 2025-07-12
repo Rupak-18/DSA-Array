@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rupak-18/DSA-Array/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Rupak-18/DSA-Array/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Rupak-18/DSA-Array/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rupak-18/DSA-Array/tree/master/0503-next-greater-element-ii) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Rupak-18/DSA-Array/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Hash Table
 |  |
@@ -84,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rupak-18/DSA-Array/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rupak-18/DSA-Array/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rupak-18/DSA-Array/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rupak-18/DSA-Array/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rupak-18/DSA-Array/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rupak-18/DSA-Array/tree/master/0503-next-greater-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
