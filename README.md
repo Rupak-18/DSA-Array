@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rupak-18/DSA-Array/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Rupak-18/DSA-Array/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rupak-18/DSA-Array/tree/master/0503-next-greater-element-ii) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Rupak-18/DSA-Array/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Rupak-18/DSA-Array/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rupak-18/DSA-Array/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rupak-18/DSA-Array/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Rupak-18/DSA-Array/tree/master/0287-find-the-duplicate-number) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Rupak-18/DSA-Array/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Rupak-18/DSA-Array/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+## String
+|  |
+| ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Rupak-18/DSA-Array/tree/master/2231-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
